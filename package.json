@@ -1,0 +1,16 @@
+{
+  "name": "email-creator",
+  "version": "1.0.0",
+  "description": "Easy email creator with some sample templates",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./server.js"
+  },
+  "author": "grkmkc",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^19.1.1",
+    "nodemon": "^2.0.4"
+  }
+}
